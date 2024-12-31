@@ -1,3 +1,5 @@
+@use '../utils/index.scss' as *;
+
 .debugger {
   background-color: rgba(32, 32, 32, 1);
   border-radius: 16px;
